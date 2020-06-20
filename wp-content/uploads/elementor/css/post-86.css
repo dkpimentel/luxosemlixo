@@ -1,0 +1,15 @@
+.elementor-86 .elementor-element.elementor-element-80d9bda .elementor-image:hover img{filter:brightness( 100% ) contrast( 100% ) saturate( 0% ) blur( 0px ) hue-rotate( 0deg );}.elementor-86 .elementor-element.elementor-element-80d9bda .elementor-image img{transition-duration:0.5s;}.elementor-86 .elementor-element.elementor-element-7ec30b9 .elementor-heading-title{color:#0088CC;font-family:"Glacial Indifference", Sans-serif;font-size:20px;}.elementor-86 .elementor-element.elementor-element-b13eab5 > .elementor-widget-container{margin:-20px 0px 0px 0px;}.elementor-86 .elementor-element.elementor-element-b75c499{color:#000000;font-weight:bold;}.elementor-86 .elementor-element.elementor-element-b75c499 > .elementor-widget-container{margin:-20px 0px 0px 0px;}.elementor-86 .elementor-element.elementor-element-670c234 .elementor-heading-title{color:#0088CC;font-family:"Glacial Indifference", Sans-serif;font-size:20px;font-weight:200;}.elementor-86 .elementor-element.elementor-element-670c234 > .elementor-widget-container{margin:-10px 0px 10px 0px;}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Glacial Indifference';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://www.luxosemlixo.com.br/wp-content/uploads/2020/04/GlacialIndifference-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Glacial Indifference';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('http://www.luxosemlixo.com.br/wp-content/uploads/2020/04/GlacialIndifference-Bold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */

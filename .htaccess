@@ -1,0 +1,4 @@
+Options +FollowSymlinks
+RewriteEngine on
+RewriteCond %{http_host} ^luxosemlixo.com.br [NC]
+RewriteRule ^(.*)$ http://www.luxosemlixo.com.br/$1 [R=301,L]
